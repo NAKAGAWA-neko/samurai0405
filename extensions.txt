@@ -1,0 +1,6 @@
+aeschli.vscode-css-formatter
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+MS-CEINTL.vscode-language-pack-ja
+PKief.material-icon-theme
+ritwickdey.LiveServer
